@@ -1,7 +1,7 @@
 # COGNIFYZ
-Data Science Internship Tasks by @COGNIFY Technologies🎉.
+Data Science Internship Tasks 
 
-Role Data Science Intern❤️💫.
+Role Data Science Intern.
 
 The role I've involved:  
 Collecting Data, Cleaning Data, Interpreting Data, and development of data-driven solutions.
@@ -70,7 +70,5 @@ Determining if there are any specific cuisines that tend to receive higher ratin
 Creating visualizations to represent the distribution of ratings using different charts (histogram, bar plot, etc.).
 Comparing the average ratings of different cuisines or cities using appropriate visualizations.
 Visualizing the relationship between various features and the target variable to gain insights.
-
-You can Reach Me or Find the Each and Every Task Videos here: https://www.linkedin.com/in/saiharsha3377/
 
 Thanks to COGNIFYZ Technologies for providing this opportunity❤️.
